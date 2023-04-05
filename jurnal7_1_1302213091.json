@@ -1,0 +1,57 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Jurnal7_1302213091_Kelompok_4
+{
+    class jurnal7_1_1302213091
+  {
+    {
+      "firstName": "Triani",
+      "lastName": "Putri Mumpuni",
+      "gender": "Female",
+      "age": 19,
+      "address": {
+        "streetAddress": "Sukapura",
+        "city": "Bandung",
+        "state": "West Java"
+      },
+      "courses": [
+        {
+          "code": "CRI2C4",
+          "name": "Konstruksi Perangkat Lunak"
+        },
+        {
+          "code": "CII2B4",
+          "name": "Struktur Data"
+        },
+        {
+          "code": "CRI2E4",
+          "name": "Basis Data"
+        },
+        {
+          "code": "CRI2F2",
+          "name": "Proyek Tingkat II"
+        },
+        {
+          "code": "CRJ2A3",
+          "name": "Penjaminan Mutu Perangkat Lunak"
+        },
+        {
+          "code": "CRJ2G3",
+          "name": "Dasar Jaringan Komputer"
+        },
+        {
+          "code": "CRJ2H3",
+          "name": "Pengalaman Pengguna"
+        },
+        {
+          "code": "CRJ4C1",
+          "name": "Teknologi Perangkat Lunak Untuk Masyarakat"
+        }
+      ]
+    }
+  }
+}
