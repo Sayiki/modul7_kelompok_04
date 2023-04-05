@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Arzaq",
+       "lastName": "Ajradika",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302210096"
+    },
+    {
+       "firstName": "Hermawan",
+       "lastName": "Saputra",
+       "gender": "male",
+       "age": 20,
+       "nim": "130221"
+    },
+    {
+      "firstName": "Triani",
+      "lastName": "Mumpuni",
+      "gender": "female",
+      "age": 20,
+      "nim": "130221"
+    },
+    {
+      "firstname": "Yesa",
+      "lastname": "Sihombing",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302213108"
+    },
+    {
+      "firstname": "Dhafa",
+      "lastname": "Gusman",
+      "gender": "male",
+      "age": 20,
+      "nim": "130221",
+    },
+  ]
+}
