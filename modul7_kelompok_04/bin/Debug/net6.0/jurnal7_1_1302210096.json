@@ -1,0 +1,39 @@
+{
+   "firstName": "Arzaq",
+   "lastName": "Ajradika",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+
+    },
+    {
+      "code": "CRI2XX",
+      "name": "PBO"
+    },
+    {
+      "code": "CRI2XX",
+      "name": "proting"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "basdat"
+    },
+    {
+      "code": "CRI2G3",
+      "name": "jarkom"
+    },
+    {
+      "code": "CRI2XX",
+      "name": "SQA"
+    }
+
+   ]
+}
