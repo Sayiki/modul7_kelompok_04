@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Triani",
+       "lastName": "Putri Mumpuni",
+       "gender": "female",
+       "age": 19,
+       "nim": "1302213091"
+    },
+    {
+       "firstName": "Arzaq",
+       "lastName": "Ajradika",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302210096"
+    },
+    {
+       "firstName": "Yesa",
+       "lastName": "Kristanto Sihombing",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302213108"
+    }
+  ]
+}

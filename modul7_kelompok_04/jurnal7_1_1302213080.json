@@ -1,0 +1,46 @@
+{
+   "firstName": "Hermawan",
+   "lastName": "Saputra",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Karasak Utara 2 gang 3 No. 7",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CRJ2G3",
+      "name": "Dasar Jaringan Komputer"
+    },
+    {
+      "code": "CRJ2H3",
+      "name": "Pengalaman Pengguna"
+    },
+    {
+      "code": "CRJ2A3",
+      "name": "Penjaminan Mutu Perangkat Lunak"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "Proyek Tingkat II"
+    },
+    {
+      "code": "CII2B4",
+      "name": "Struktur Data"
+    },
+    {
+      "code": "CRJ4C1",
+      "name": "Teknologi Perangkat Lunak Untuk Masyarakat"
+    }
+
+  ]
+}

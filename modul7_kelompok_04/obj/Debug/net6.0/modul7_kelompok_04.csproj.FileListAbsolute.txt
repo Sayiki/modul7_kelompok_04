@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\bin\Debug\net6.0\modul7_kelompok_04.exe
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\bin\Debug\net6.0\modul7_kelompok_04.deps.json
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\bin\Debug\net6.0\modul7_kelompok_04.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\bin\Debug\net6.0\modul7_kelompok_04.dll
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\bin\Debug\net6.0\modul7_kelompok_04.pdb
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.dll
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\refint\modul7_kelompok_04.dll
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.pdb
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\modul7_kelompok_04.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\modul7_kelompok_04\modul7_kelompok_04\obj\Debug\net6.0\ref\modul7_kelompok_04.dll
