@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Jurnal7_1302213091_Kelompok_4
+{
+    class jurnal7_2_1302213091
+  {
+    "members": [
+      {
+        "firstName": "Hermawan",
+        "lastName": "Saputra",
+        "gender": "male",
+        "age": 20,
+        "nim": "1302213080"
+      },
+      {
+        "firstName": "Arzaq",
+        "lastName": "Ajradika",
+        "gender": "male",
+        "age": 20,
+        "nim": "1302210096"
+      },
+      {
+        "firstName": "Yesa",
+        "lastName": "Krisanto Sihombing",
+        "gender": "female",
+        "age": 19,
+        "nim": "1302213108"
+      }
+    ]
+  }
+}
